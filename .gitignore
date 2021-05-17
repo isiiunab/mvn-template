@@ -12,3 +12,6 @@ buildNumber.properties
 notes
 .dccache
 .idea/
+docker/*
+*.iml
+my-exam/src/main/java/co/gov/misiontic2022/app/solution/*
